@@ -1,0 +1,5 @@
+/.idea/
+/.gradle/
+/eureka/build/
+/songs-service/build/
+/resources-service/build/
