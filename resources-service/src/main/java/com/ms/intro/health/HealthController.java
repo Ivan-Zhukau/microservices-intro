@@ -1,4 +1,4 @@
-package com.ms.intro.resource;
+package com.ms.intro.health;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
