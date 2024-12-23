@@ -1,4 +1,4 @@
-package com.ms.intro.app;
+package com.ms.intro.resource;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
